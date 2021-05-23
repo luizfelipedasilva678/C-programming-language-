@@ -11,4 +11,6 @@ int main(void)
     printf("1 = %d \n", '1');
     printf("2 = %d \n", '2');
     printf("$ = %d", '$');
+    
+    return 0;
 }
