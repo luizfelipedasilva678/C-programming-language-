@@ -25,5 +25,6 @@ int main(void)
     {
         printf("Numero 2 e maior que numero 1");
     }
-
+    
+    return 0;
 }
