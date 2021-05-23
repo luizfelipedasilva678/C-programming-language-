@@ -16,4 +16,6 @@ int main(void)
     {
         printf("Impar");
     }
+    
+    return 0;
 }
