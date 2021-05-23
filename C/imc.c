@@ -21,4 +21,6 @@ int main(void)
     printf("\n\n");
     printf(" VALORES DE IMC \n Abaixo do peso: menor que 18,5 \n Normal: entre 18,5 e 24,9 \n Acima do peso: entre 25 e 29,9 \n Obeso: 30 ou mais");
     printf("\n\n");
+    
+    return 0;
 }
