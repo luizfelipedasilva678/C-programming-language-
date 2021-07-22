@@ -3,7 +3,8 @@
  Programa criado em 21/07/2021
 ------------*/
 #include <stdio.h>
-#include <stdlib.h>void exibeNomeCompleto(char*, char*);
+#include <stdlib.h>
+void exibeNomeCompleto(char*, char*);
 main ()
 {
  char *nome, *sobrenome;
